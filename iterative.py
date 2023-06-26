@@ -6,7 +6,7 @@ import requests
 import json
 from datetime import datetime
 
-FMP_KEY = 'ec973af37ee5857e4a08d15e67807b65'
+
 
 class FinancialInstrument(): #Super class
     """
