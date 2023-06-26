@@ -45,8 +45,7 @@ TODAY_STR =TODAY.strftime('%Y-%m-%d')
 FMP_BASE = 'https://financialmodelingprep.com/api'
 
 #API keys - Confidential-> Remove before publishing
-fmp_key = 'ec973af37ee5857e4a08d15e67807b65'
-fred_key = 'c9731f8305946ceb1acea22613ea3c31'
+
 
 
 class Basic():
